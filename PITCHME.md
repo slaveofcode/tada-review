@@ -4,18 +4,18 @@
 +++
 # WHAT I DO ?
 - Mostly doing programming (absolutely)
-- Dive into rhw current Projects to get understand the flow
+- Dive into the current Projects to get understand the flow
 - Code Refactor
 - Thinking about the best practice & coding standard
 
 ---
-# PROJECTS INVOLVED
+## PROJECTS INVOLVED
 1. LAZADA EGift Integration
 2. TADA.id improvements
 3. AVBO Site
 
 +++
-# LAZADA EGift Integration
+## LAZADA EGift Integration
 1. Create simple library
 2. Solve the problem about LAZADA API request
 3. Create order processing functions 
@@ -23,11 +23,11 @@
 5. Reports
 
 ---
-# TADA.id improvements
+## TADA.id improvements
 1. Integrate egift purchase
 2. Fixing on feature
 3. Code refactoring
 
 +++
-# AVBO Site
+## AVBO Site
 1. 
