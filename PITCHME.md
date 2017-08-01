@@ -16,7 +16,7 @@
 
 +++
 ## LAZADA EGift Integration
-1. Create simple library
+1. Create simple API library
 2. Solve the problem about LAZADA API request
 3. Create order processing functions 
 4. LOGGING & Tracking
@@ -33,9 +33,9 @@
 1. 
 
 ---
-# CODE REVIEW @lazada-interation [1]
+## CODE REVIEW @lazada-interation [1]
 1. Create simple api library to talk with LAZADA API service [LAZADA API]
-2. Build up processing functions to handle the order automatically [LAZADA PROCESSOR]
+2. Build up processing functions to handle order automatically [LAZADA PROCESSOR]
 
 +++
 ## LAZADA API
