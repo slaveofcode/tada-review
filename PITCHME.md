@@ -33,12 +33,12 @@
 1. 
 
 ---
-## CODE REVIEW @lazada-interation [1]
-1. Create simple api library to talk with LAZADA API service [LAZADA API]
-2. Build up processing functions to handle order automatically [LAZADA PROCESSOR]
+## CODE REVIEW LAZADA [1]
+- LAZADA API: Create simple api library to talk with LAZADA API service [LAZADA API]
+- LAZADA ORDER PROCESSOR: Build up processing functions to handle order automatically []
 
 +++
-## LAZADA API
+## LAZADA API [2]
 Api functions
 - `getSignature()`
 - `makeRequest()`
@@ -48,4 +48,4 @@ Api functions
 - `setStatusToPackedByMarketPlace()`
 - `setStatusToReadyToShip()`
 
-@[]
+@[4-5]
