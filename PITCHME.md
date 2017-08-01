@@ -34,8 +34,8 @@
 
 ---
 ## CODE REVIEW LAZADA [1]
-- LAZADA API: Create simple api library to talk with LAZADA API service [LAZADA API]
-- LAZADA ORDER PROCESSOR: Build up processing functions to handle order automatically []
+- LAZADA API: Create simple api library to talk with API service
+- LAZADA ORDER PROCESSOR: Build up processing functions to handle order automatically
 
 +++
 ## LAZADA API [2]
@@ -48,4 +48,30 @@ Api functions
 - `setStatusToPackedByMarketPlace()`
 - `setStatusToReadyToShip()`
 
-@[4-5]
++++
+## LAZADA API `getSignature()` [3]
+
+```
+getSignature()
+
+getSignature(params)
+{
+  let encoded = [];
+  _.forEach(this.sortByKeysAsc(params), function(item, key){
+    encoded.push(encodeURIComponent(key) + '=' + encodeURIComponent(item));
+  });
+  let concatenated = _.join(encoded, '&');
+  let signature = crypto
+    .createHmac('sha256', this.apiKey)
+    .update(concatenated)
+    .digest('hex');
+  signature = encodeURIComponent(signature);
+  return signature;
+}
+```
+@[3-14]
+@[5-8]
+@[9]
+@[10-13]
+@[14]
+@[15]
