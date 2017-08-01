@@ -4,8 +4,9 @@
 +++
 # WHAT I DO ?
 - Mostly doing programming (absolutely)
-- Dive into current running Projects to understand the flow
-- Thinking about the best practice
+- Dive into rhw current Projects to get understand the flow
+- Code Refactor
+- Thinking about the best practice & coding standard
 
 ---
 # PROJECTS INVOLVED
