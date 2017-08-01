@@ -35,6 +35,19 @@
 3. Added filter by `orderReference` on order listing
 
 ---
+## SUGGESTION
+1. Follow coding standard for **NODE.js**
+2. Use best practice for project development like on
+
+> [https://github.com/wearehive/project-guidelines](https://github.com/wearehive/project-guidelines)
+
+3. Invest more on current popular technologies (Golang, React-Native, etc.)
+4. Fun project for company
+    - Face recognition for employees
+    - Anonymous submission for TADA products
+    - Sexy rating on requested feature
+
+---
 ## CODE REVIEW LAZADA [1]
 - LAZADA API: Create simple api library to talk with API service
 - LAZADA ORDER PROCESSOR: Build up processing functions to handle order automatically
