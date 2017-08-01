@@ -1,1 +1,8 @@
-#REVIEW
+# 3 MONTHS REVIEW
+@aditya
+
++++
+# WHAT I DO ?
+
+---
+# PROJECTS INVOLVED
