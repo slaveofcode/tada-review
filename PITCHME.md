@@ -36,14 +36,8 @@
 
 ---
 ## SUGGESTION
-1. Follow coding standard for **JAVASCRIPT**
-
-> [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
-
-2. Use best practice for project development like on
-
-> [https://github.com/wearehive/project-guidelines](https://github.com/wearehive/project-guidelines)
-
+1. Follow coding standard for **JAVASCRIPT** ([https://github.com/airbnb/javascript](https://github.com/airbnb/javascript))
+2. Use best practice for project development([https://github.com/wearehive/project-guidelines](https://github.com/wearehive/project-guidelines))
 3. Invest more on current popular technologies (Golang, React-Native, etc.)
 4. Fun project for company
     - Interesting news on TV (tech, startup, market situation, our system, etc.)
