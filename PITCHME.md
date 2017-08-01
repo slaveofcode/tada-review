@@ -3,8 +3,8 @@
 
 +++
 # WHAT I DO ?
-> Mostly (actually) is Coding
-> Dive into current running Projects
+- Mostly (actually) is Coding
+- Dive into current running Projects
 
 ---
 # PROJECTS INVOLVED
