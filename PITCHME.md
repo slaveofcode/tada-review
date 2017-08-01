@@ -31,3 +31,21 @@
 +++
 ## AVBO Site
 1. 
+
+---
+# CODE REVIEW @lazada-interation [1]
+1. Create simple api library to talk with LAZADA API service [LAZADA API]
+2. Build up processing functions to handle the order automatically [LAZADA PROCESSOR]
+
++++
+## LAZADA API
+Api functions
+- `getSignature()`
+- `makeRequest()`
+- `getOrders()`
+- `getOrder()`
+- `getOrderItems()`
+- `setStatusToPackedByMarketPlace()`
+- `setStatusToReadyToShip()`
+
+@[]
