@@ -30,7 +30,9 @@
 
 +++
 ## AVBO Site
-1. 
+1. Added feature for download batch of list program
+2. Customize informations on order detail
+3. Added filter by `orderReference` on order listing
 
 ---
 ## CODE REVIEW LAZADA [1]
@@ -49,11 +51,11 @@ Api functions
 - `setStatusToReadyToShip()`
 
 +++
-## LAZADA API `getSignature()` [3]
+## LAZADA API [3]
+
+`getSignature()`
 
 ```
-getSignature()
-
 getSignature(params)
 {
   let encoded = [];
@@ -69,7 +71,7 @@ getSignature(params)
   return signature;
 }
 ```
-@[3-14]
+@[3-16]
 @[5-8]
 @[9]
 @[10-13]
