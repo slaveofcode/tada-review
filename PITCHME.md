@@ -44,10 +44,12 @@
 
 [https://github.com/wearehive/project-guidelines](https://github.com/wearehive/project-guidelines)
 
+3. Communication over current state of development with product team(Trello card)
+
 +++
 ## SUGGESTION [2]
-3. Invest more on current popular technologies (Golang, React-Native, etc.)
-4. Fun project for company
+4. Invest more on current popular technologies (Golang, React-Native, etc.)
+5. Fun project for company
     - Interesting news on TV (tech, startup, market situation, our system, etc.)
     - Face recognition for employees
     - Anonymous submission for TADA products
