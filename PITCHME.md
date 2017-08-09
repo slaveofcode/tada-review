@@ -44,12 +44,14 @@
 
 [https://github.com/wearehive/project-guidelines](https://github.com/wearehive/project-guidelines)
 
-3. Communication over current state of development with product team(Trello card)
+3. Create tada.id content management for product or operator
+
+4. Communication over current state of development with product team(Trello card)
 
 +++
 ## SUGGESTION [2]
-4. Invest more on current popular technologies (Golang, React-Native, etc.)
-5. Fun project for company
+5. Invest more on current popular technologies (Golang, React-Native, etc.)
+6. Fun project for company
     - Interesting news on TV (tech, startup, market situation, our system, etc.)
     - Face recognition for employees
     - Anonymous submission for TADA products
