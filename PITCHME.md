@@ -3,7 +3,7 @@
 
 +++
 # WHAT I DO ?
-- Mostly doing programming (absolutely)
+- Do programming / coding (absolutely)
 - Dive into the current Projects to get understand the flow
 - Code Refactor
 - Thinking about the best practice & coding standard
@@ -61,6 +61,13 @@
     - Face recognition for employees
     - Anonymous submission for TADA products
     - Sexy rating on requested feature
+    
+---
+## Obstacles I Found
+1. So many projects with different js framework and flow
+2. No internal documentation of every project because we move so fast
+3. Must read the code, don't believe in person
+4. Technical feature explanations for some flow like redemption, egift, loyalty, etc.
 
 ---
 ## CODE REVIEW LAZADA [1]
