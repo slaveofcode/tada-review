@@ -34,7 +34,7 @@
 2. Customize informations on order detail
 3. Added filter by `orderReference` on order listing
 
-___
+---
 ## AVCorporate Site
 1. Egift corporate invoice report 
 
