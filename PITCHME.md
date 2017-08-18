@@ -10,12 +10,13 @@
 
 ---
 ## PROJECTS INVOLVED
-1. LAZADA EGift Integration
+1. LAZADA EGift Integration (Bridge) 
 2. TADA.id improvements
 3. AVBO Site
+4. AVCorporate Site
 
 ---
-## LAZADA EGift Integration
+## LAZADA EGift Integration (Bridge) 
 1. Create simple API library
 2. Solve the problem about LAZADA API request
 3. Create order processing functions 
@@ -56,7 +57,7 @@
 ## SUGGESTION [2]
 5. Invest more on current popular technologies (Elixir, Golang, React-Native, etc.)
 6. Rebuild Tada site to be more efficient, less redundant, less unknown side effect & messy code / functions
-7. EGift Processor watcher (report) & manager for LAZADA and next incoming aggregator 
+7. EGift Processor watcher (report & alert) & manager for LAZADA and next incoming aggregator 
 6. Fun project for company
     - Interesting news on TV (tech, startup, market situation, our system, etc.)
     - Face recognition for employees
