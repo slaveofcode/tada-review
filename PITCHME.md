@@ -55,11 +55,10 @@
 6. Rebuild Tada site to be more efficient, less redundant, less unknown side effect & messy code / functions
 7. EGift Processor watcher (report & alert) & manager for LAZADA and next incoming aggregator 
 6. Fun project for company
-    - Interesting news on TV (tech, startup, market situation, our system, etc.)
+    - Interesting news on TV (tech, startup, market situation, our system, our transactions count, etc.)
     - Face recognition for employees
     - Anonymous submission for TADA products
-    - Sexy rating on requested feature
-    
+    - Sexy rating on requested feature (related to point above) 
 ---
 ## Obstacles I Found
 1. So many projects with different js framework and flow
