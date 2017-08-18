@@ -14,7 +14,7 @@
 2. TADA.id improvements
 3. AVBO Site
 
-+++
+---
 ## LAZADA EGift Integration
 1. Create simple API library
 2. Solve the problem about LAZADA API request
@@ -28,11 +28,14 @@
 2. Fixing on feature
 3. Code refactoring
 
-+++
+---
 ## AVBO Site
 1. Added feature for download batch of list program
 2. Customize informations on order detail
 3. Added filter by `orderReference` on order listing
+
+## AVCorporate Site
+1. Egift corporate invoice report 
 
 ---
 ## SUGGESTION
@@ -48,9 +51,11 @@
 
 4. Communication over current state of development with product team(Trello card)
 
-+++
+---
 ## SUGGESTION [2]
-5. Invest more on current popular technologies (Golang, React-Native, etc.)
+5. Invest more on current popular technologies (Elixir, Golang, React-Native, etc.)
+6. Rebuild Tada site to be more efficient, less redundant & messy code / functions
+7. EGift Processor watcher (report) & manager for LAZADA and next incoming aggregator 
 6. Fun project for company
     - Interesting news on TV (tech, startup, market situation, our system, etc.)
     - Face recognition for employees
