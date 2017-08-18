@@ -54,7 +54,7 @@
 ---
 ## SUGGESTION [2]
 5. Invest more on current popular technologies (Elixir, Golang, React-Native, etc.)
-6. Rebuild Tada site to be more efficient, less redundant & messy code / functions
+6. Rebuild Tada site to be more efficient, less redundant, less unknown side effect & messy code / functions
 7. EGift Processor watcher (report) & manager for LAZADA and next incoming aggregator 
 6. Fun project for company
     - Interesting news on TV (tech, startup, market situation, our system, etc.)
