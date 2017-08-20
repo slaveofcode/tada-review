@@ -62,6 +62,9 @@
 5. Keeping eye on current popular technologies (Elixir, Golang, React-Native, etc.)
 6. Rebuild/Refactor Tada site to be more efficient, less redundant, less unknown side effect & messy code / functions
 7. EGift Processor watcher (report & alert) & manager for LAZADA and next incoming aggregator 
+
+---
+## SUGGESTION [3]
 6. Fun project for company benefit
     - Interesting news on LCD (tech, startup, market situation, our system, our transactions count, etc.)
     - Face recognition for employees
@@ -74,7 +77,7 @@
 3. Must read the code, don't believe in person (takes more time)
 4. Technical feature explanations for some flow like redemption, egift, loyalty, etc.
 
----
++++
 ## CODE REVIEW LAZADA [1]
 - LAZADA API: Create simple api library to talk with API service
 - LAZADA ORDER PROCESSOR: Build up processing functions to handle order automatically
