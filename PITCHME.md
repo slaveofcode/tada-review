@@ -49,23 +49,23 @@
 
 ---
 ## SUGGESTION
-1. Follow coding standard for **JAVASCRIPT** [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
+- Follow coding standard for **JAVASCRIPT** [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
-2. Use best practice for project development [https://github.com/wearehive/project-guidelines](https://github.com/wearehive/project-guidelines)
+- Use best practice for project development [https://github.com/wearehive/project-guidelines](https://github.com/wearehive/project-guidelines)
 
-3. Create tada.id content management for product or operator
+- Create tada.id content management for product or operator
 
-4. Communication over current state of development with product team(Trello card)
+- Communication over current state of development with product team(Trello card)
 
 ---
 ## SUGGESTION [2]
-5. Keeping eye on current popular technologies (Elixir, Golang, React-Native, etc.)
-6. Rebuild/Refactor Tada site to be more efficient, less redundant, less unknown side effect & messy code / functions
-7. EGift Processor watcher (report & alert) & manager for LAZADA and next incoming aggregator 
+- Keeping eye on current popular technologies (Elixir, Golang, React-Native, etc.)
+- Rebuild/Refactor Tada site to be more efficient, less redundant, less unknown side effect & messy code / functions
+- EGift Processor watcher (report & alert) & manager for LAZADA and next incoming aggregator 
 
 ---
 ## SUGGESTION [3]
-6. Fun project for company benefit
+- Fun project for company benefit
     - Interesting news on LCD (tech, startup, market situation, our system, our transactions count, etc.)
     - Face recognition for employees
     - Anonymous submission for TADA products
