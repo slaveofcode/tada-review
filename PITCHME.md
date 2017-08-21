@@ -16,6 +16,14 @@
 - Code Refactor
 - Thinking about the best practice & coding standard
 
+# WHAT I LEARN IN TADA
+- Ownership of the feature
+- Don't fear to learn a new thing
+- Give what user need instead of cool feature
+- Work life balance
+- Efficiency
+- Leadership
+
 ---
 ## PROJECTS INVOLVED
 1. LAZADA EGift Integration (Bridge) 
@@ -34,7 +42,7 @@
 ---
 ## TADA.id improvements
 1. Integrate egift purchase (evoucher)
-2. Fix & Improvement on feature (cart, design, banner)
+2. Fix & Improvement on feature (cart, design, banner, email)
 3. Code refactoring (cart)
 
 ---
@@ -53,15 +61,9 @@
 
 - Use best practice for project development [https://github.com/wearehive/project-guidelines](https://github.com/wearehive/project-guidelines)
 
-- Create tada.id content management for product or operator
+- Keeping eye on current popular technologies (Elixir, Golang, React-Native, etc.)
 
 - Communication over current state of development with product team(Trello card)
-
----
-## SUGGESTION [2]
-- Keeping eye on current popular technologies (Elixir, Golang, React-Native, etc.)
-- Rebuild/Refactor Tada site to be more efficient, less redundant, less unknown side effect & messy code / functions
-- EGift Processor watcher (report & alert) & manager for LAZADA and next incoming aggregator 
 
 ---
 ## SUGGESTION [3]
@@ -70,12 +72,19 @@
     - Face recognition for employees
     - Anonymous submission for TADA products
     - Sexy rating on requested feature (related to point above) 
+    
 ---
-## Obstacles I Found
+## OBSTACLES I FOUND
 1. So many projects with different js framework and flow
 2. No internal documentation of every project because we move so fast
 3. Must read the code, don't believe in person (takes more time)
 4. Technical feature explanations for some flow like redemption, egift, loyalty, etc.
+
+---
+## WHAT I DO NEXT 3 MONTHS
+1. Make eGift Processor watcher (report & alert) & manager for LAZADA and next incoming aggregator
+2. Rebuild/Refactor Tada site step-by-step to be more efficient, less redundant, less unknown side effect & messy code / functions
+3. Create tada.id content management app
 
 ---
 ## Thank You
