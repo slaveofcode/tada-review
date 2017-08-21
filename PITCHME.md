@@ -22,7 +22,7 @@
 - Don't fear to learn a new thing
 - Give what user need instead of cool feature
 - Work life balance
-- Efficiency
+- Friendly deployment 
 - Leadership
 
 ---
