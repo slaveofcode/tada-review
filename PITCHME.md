@@ -77,6 +77,9 @@
 3. Must read the code, don't believe in person (takes more time)
 4. Technical feature explanations for some flow like redemption, egift, loyalty, etc.
 
+---
+## Thank You
+
 +++
 ## CODE REVIEW LAZADA [1]
 - LAZADA API: Create simple api library to talk with API service
