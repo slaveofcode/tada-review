@@ -11,7 +11,7 @@
 6. Be Open, Honest & Constructive
 ---
 # WHAT I DO ?
-- Do programming / coding (absolutely)
+- Do programming / coding for feature & service (absolutely)
 - Dive into the current Projects to get understand the flow
 - Code Refactor
 - Thinking about the best practice & coding standard
