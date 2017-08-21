@@ -16,6 +16,7 @@
 - Code Refactor
 - Thinking about the best practice & coding standard
 
+---
 # WHAT I LEARN IN TADA
 - Ownership of the feature
 - Don't fear to learn a new thing
